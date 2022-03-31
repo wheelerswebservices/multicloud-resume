@@ -62,7 +62,7 @@
         <dependency>
             <groupId>com.amazonaws.serverless</groupId>
             <artifactId>aws-serverless-java-container-springboot2</artifactId>
-            <version>1.6</version>
+            <version>1.8</version>
         </dependency>
 
         <!-- Spring -->
